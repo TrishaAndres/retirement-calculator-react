@@ -17,7 +17,7 @@ A modern, responsive web app built in React that helps users:
 - 📊 Real-time, interactive form input and results
 - 📱 Fully responsive, clean layout
 - 🔁 Reusable calculation logic
-- 🧠 Ported from original C++ CLI version
+- 🧠 Ported from original C++ CLI version [https://github.com/TrishaAndres/retirement-calculator-C](https://github.com/TrishaAndres/retirement-calculator-C)
 
 ---
 
@@ -32,7 +32,7 @@ A modern, responsive web app built in React that helps users:
 ## 🛠 Tech Stack
 
 - **Frontend:** React, JavaScript
-- **Styling:** Plain CSS (or Tailwind if added)
+- **Styling:** Plain CSS
 - **Build Tool:** Create React App
 
 ---
